@@ -43,7 +43,7 @@ nav .right ul li a:hover {
 
 /* full box content: '\f010'; */
 .fullbox{
-    width:80%;
+    width:100%;
     border:1px solid grey ;
     height: fit-content;
     margin:auto;
